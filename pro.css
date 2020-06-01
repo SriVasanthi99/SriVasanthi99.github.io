@@ -1,0 +1,13 @@
+body {
+
+    background-image: url("probg.jpg");
+    
+  }
+  h2{
+      font-size: 50px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-shadow:1px 1px black;
+  }
+  p{
+      font-size: 25px;
+  }
